@@ -1,2 +1,2 @@
-ÓÃÓÚSSD1306Çý¶¯µÄoled£¬
-I2CµØÖ· 0x3C
+ç”¨äºŽSSD1306é©±åŠ¨çš„oledï¼Œ
+I2Cåœ°å€ 0x3C
